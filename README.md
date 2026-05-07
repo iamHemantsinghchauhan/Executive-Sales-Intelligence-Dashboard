@@ -23,7 +23,7 @@ This dashboard transforms complex sales datasets into **interactive executive-le
 
 ## 📊 Executive Sales Dashboard  
 
-![Dashboard Preview](Assets/Executive%20Sales%20Dashboard%20snapshot.png)
+![Dashboard Preview](![Dashboard Preview](Assets/executive-sales-dashboard-snapshot.png))
 
 ---
 
@@ -31,9 +31,7 @@ This dashboard transforms complex sales datasets into **interactive executive-le
 
 The dashboard uses a **multi-table relational data model** built using fact and dimension tables for scalable business analytics and efficient KPI reporting.
 
-## 📌 Data Model Snapshot  
 
-![Data Model](Assets/Executive%20Sales%20Dashboard%20data%20model%20snapshot.png)
 
 ---
 
