@@ -27,16 +27,6 @@ This dashboard transforms complex sales datasets into **interactive executive-le
 
 ---
 
-# 🧠 Data Model Architecture  
-
-The dashboard uses a **multi-table relational data model** built using fact and dimension tables for scalable business analytics and efficient KPI reporting.
-
-## 📌 Data Model Snapshot  
-
-<img width="100%" alt="Data Model" src="Assets/Executive%20Sales%20Dashboard%20data%20model%20snapshot.png">
-
----
-
 # 🎯 Business Objectives  
 
 This dashboard was developed to:
@@ -111,10 +101,10 @@ This dashboard was developed to:
 
 ✔ Executive-level dashboard design  
 ✔ Professional dark-themed business UI  
-✔ Multi-table relational data modeling  
 ✔ KPI-focused business reporting  
 ✔ Interactive visual storytelling  
 ✔ Real-world sales intelligence use case  
+✔ Business-driven analytical approach  
 
 ---
 
@@ -136,8 +126,7 @@ This dashboard enables businesses to:
 Executive-Sales-Intelligence-Dashboard/
 │
 ├── Assets/
-│   ├── Executive Sales Dashboard snapshot.png
-│   └── Executive Sales Dashboard data model snapshot.png
+│   └── Executive Sales Dashboard snapshot.png
 │
 ├── Dataset/
 │   ├── Main Executive Sales data.csv
