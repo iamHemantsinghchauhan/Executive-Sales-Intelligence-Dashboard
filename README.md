@@ -17,13 +17,6 @@ The **Executive Sales Intelligence Dashboard** is a high-impact Power BI project
 
 This dashboard transforms complex sales datasets into **interactive executive-level insights**, enabling smarter business decisions through advanced visualization and KPI-driven analytics.
 
----
-
-# 🎬✨ Dashboard Preview  
-
-## 📊 Executive Sales Dashboard  
-
-<img width="100%" alt="Dashboard Preview" src="Assets/Executive%20Sales%20Dashboard%20snapshot.png">
 
 ---
 
